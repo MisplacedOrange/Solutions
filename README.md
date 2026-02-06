@@ -4,6 +4,8 @@ This repository contains my competitive programming solutions for problems on **
 
 It serves as a collection of my accepted submissions, primarily written in **Python**, with some solutions in **Java** and **C++**. This is organized for reference, practice, and progress tracking as I improve my problem-solving skills.
 
+I use USACO IDE for most solutions.
+
 ## Contents
 
 - Solutions in **Python**, **Java**, and **C++**
