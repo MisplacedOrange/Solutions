@@ -6,6 +6,9 @@ pattern = []
 
 
 i = 0
+# total expanded len 
+# Ex. a2b
+# = aab
 totallen = 0
 m = len(repeat)
 
@@ -20,11 +23,15 @@ while i < m:
     pattern.append((char, num))
     totallen += num
 
+# find remainder
 index = n % totallen
 
 for char, num in pattern:
+    
+    # remainder based check
     if index < num:
         print(char)
         break
+    # Subtract num from remainder
     else:
         index -= num
