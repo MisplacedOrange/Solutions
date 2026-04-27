@@ -1,8 +1,8 @@
 # DMOJ & LeetCode Solutions
 
-This repository contains my competitive programming solutions for problems on **DMOJ**, **CodeForces**, and **LeetCode**
+This repository contains my competitive programming solutions for problems on **DMOJ**, **CodeForces**, and **LeetCode**.
 
-It serves as a collection of my accepted submissions, primarily written in **Python**, with some solutions in **Java** and **C++**. This is organized for reference, practice, and progress tracking as I improve my problem-solving skills.
+It serves as a collection of my accepted submissions, primarily written in **Python**, with some solutions in **Java** and **C++**. The repository is organized by platform, with contest-heavy sets grouped by contest and CCC solutions grouped by contest year.
 
 I use USACO IDE for most solutions.
 
@@ -11,7 +11,8 @@ I use USACO IDE for most solutions.
 - Solutions in **Python**, **Java**, and **C++**
 - Problems from **DMOJ**, **CodeForces**, and **LeetCode**
 - Direct submissions as uploaded to the platforms
-- Miscellaneous Solutions from varied platforms.
+- Contest folders for CCC, DMOPC, ECOO, Mock CCC, and other named sets
+- Miscellaneous practice solutions from varied platforms
 
 ## Profiles
 
