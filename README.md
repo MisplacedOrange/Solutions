@@ -21,6 +21,6 @@ I use USACO IDE for most solutions.
 - [DMOJ Profile](https://dmoj.ca/submissions/user/MisplacedOrange/)
 - [LeetCode Profile](https://leetcode.com/u/MisplacedOrange/)
 - [CodeForces Profile](https://codeforces.com/profile/MisplacedOrange)
-- [Project Euler Profile](https://projecteuler.net/progress=MisplacedOrange)
+- [Project Euler Profile](https://projecteuler.net/profile/MisplacedOrange)
 - [Hackclub Flavortown](https://flavortown.hackclub.com/users/4649)
 
