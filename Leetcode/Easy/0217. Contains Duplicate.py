@@ -1,3 +1,7 @@
+from collections import Counter
+from typing import List
+
+
 class Solution(object):
     def containsDuplicate(self, nums):
         """
