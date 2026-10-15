@@ -25,3 +25,34 @@ public class temp {
 
     }
 }
+
+/*
+C++ Solution
+
+#include <bits/stdc++.h>
+
+
+using namespace std;
+
+
+int consecStones(std::string s) {
+    if (s.length() <= 1) {
+        return 0;
+    }
+
+    if (s[0] == s[1]) {
+        return 1 + consecStones(s.substr(1));
+    }
+
+    return consecStones(s.substr(1));
+    
+}
+
+int main() {
+    int n;
+    std::string s;
+    cin >> n >> s;
+    cout << consecStones(s);
+}
+
+*/
